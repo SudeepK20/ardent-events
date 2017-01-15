@@ -19,7 +19,6 @@ module.exports = function(config) {
       'src/assets/lib/bower_components/angular-scroll/angular-scroll.js',
       'src/assets/lib/bower_components/ngclipboard/dist/ngclipboard.js',
       'src/assets/lib/bower_components/angular-sanitize/angular-sanitize.js',
-      'src/assets/lib/bower_components/oneui-modalwindows/dist/oneui-modals.js',
       'src/assets/lib/bower_components/angular-bootstrap/ui-bootstrap.js',
       'src/assets/lib/bower_components/angular-scroll/angular-scroll.js',
       'src/assets/lib/bower_components/angular-file-upload/dist/angular-file-upload.min.js',
