@@ -81,17 +81,7 @@ var app = {
 	data	: 'app/data',
 }
 
-// var release = {
-// 	all     : 'release/**/*.*',
-// 	fonts   : 'release/fonts',
-// 	images  : 'release/images',
-// 	index   : 'release/index.html',
-// 	views   : 'release/views',
-// 	root    : 'release/',
-// 	scripts : 'release/scripts',
-// 	styles  : 'release/styles',
-// 	data	: 'release/data'
-// }
+
 
 
 /*=============================
